@@ -9,7 +9,7 @@ on [VPS](https://en.wikipedia.org/wiki/Virtual_private_server).
 ### Ubuntu
 
 ```bash
-wget https://raw.githubusercontent.com/TSUKER/wireguard-install/debian/master/wg-ubuntu-server-up.sh
+wget https://raw.githubusercontent.com/TSUKER/wireguard-install/master/debian/wg-ubuntu-server-up.sh
 
 chmod +x ./wg-ubuntu-server-up.sh
 sudo ./wg-ubuntu-server-up.sh
@@ -18,7 +18,7 @@ sudo ./wg-ubuntu-server-up.sh
 ### Debian
 
 ```bash
-wget https://raw.githubusercontent.com/TSUKER/wireguard-install/debian/master/wg-debian-server-up.sh
+wget https://raw.githubusercontent.com/TSUKER/wireguard-install/master/debian/wg-debian-server-up.sh
 
 chmod +x ./wg-debian-server-up.sh
 sudo ./wg-debian-server-up.sh
