@@ -18,8 +18,8 @@ The script supports both IPv4 and IPv6. Please check the [issues](https://github
 
 Supported distributions:
 
-- Ubuntu >= 16.04 [Second variant for Debian](https://github.com/TSUKER/wireguard-install/blob/master/README.md)
-- Debian >= 10 [Second variant for Ubuntu](https://github.com/TSUKER/wireguard-install/blob/master/README.md)
+- Ubuntu >= 16.04 [Second variant for Debian](https://github.com/TSUKER/wireguard-install/debian/blob/master/README.md)
+- Debian >= 10 [Second variant for Ubuntu](https://github.com/TSUKER/wireguard-install/debian/blob/master/README.md)
 - Fedora
 - CentOS
 - Arch Linux
@@ -30,7 +30,7 @@ Supported distributions:
 Download and execute the script. Answer the questions asked by the script and it will take care of the rest.
 
 ```bash
-curl -O https://raw.githubusercontent.com/TSUKER/wireguard-install/master/wireguard-install.sh
+curl -O https://raw.githubusercontent.com/TSUKER/wireguard-install/debian/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ```
